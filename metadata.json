@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Sichuan Mahjong Lite",
+  "description": "A single-player Sichuan Mahjong (Bloody Battle style) game against AI bots. Features authentic rules like 'Ding Que' (Void Suit) and includes a Gemini-powered strategic advisor.",
+  "requestFramePermissions": []
+}
